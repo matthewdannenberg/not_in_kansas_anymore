@@ -1,0 +1,1 @@
+This folder contains code for using Gaussian Kernel Density Estimation on the training data from the 1950s to 2020. We use linear regression and a Gaussian white noise model for prediction. We also checked the validity for our model using the testing set.
