@@ -1,5 +1,7 @@
 cb_2024_us_state_5m.zip
 data_download/__pycache__/
 data_download/all_tornadoes.csv
-data_download/gsoy_latest
+data_download/gsoy-latest/
+data_download/gsoy-latest.tar.gz
+data_download/yearly_climate_data.csv
 presentation/
