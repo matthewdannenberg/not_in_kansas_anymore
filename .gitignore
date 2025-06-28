@@ -5,3 +5,5 @@ data_download/gsoy-latest/
 data_download/gsoy-latest.tar.gz
 data_download/yearly_climate_data.csv
 presentation/
+climate_tornado_model/__pycache__/
+climate_tornado_model/generated_images
